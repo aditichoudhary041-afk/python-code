@@ -1,3 +1,3 @@
 author- aditi choudhary
 <br>
-This is my python journey programming
+This is my python journey programming(for apna college)
