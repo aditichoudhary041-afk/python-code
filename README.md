@@ -35,10 +35,4 @@ This repository contains Python programs, programming concepts, practice exercis
 - GitHub
 
 ## 🎯 Purpose
-To develop programming skills, improve problem-solving abilities, and build practical Python applications.
-
-<<<<<<< HEAD
-**Created by Aditi Choudhary** 🚀
-=======
-**Created by Aditi Choudhary** 
->>>>>>> d28b3e5 (update python README and remove subtract program)
+To develop programming skills, improve problem-solving abilities, and build practical Python 
