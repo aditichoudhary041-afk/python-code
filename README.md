@@ -1,8 +1,7 @@
 # 🐍 Python Programming
 
 Welcome to my Python Programming Repository!
-**I'm aditi**
-
+i'm aditi
 This repository contains Python programs, programming concepts, practice exercises, and projects.
 
 ## 📚 Topics Covered
@@ -38,4 +37,8 @@ This repository contains Python programs, programming concepts, practice exercis
 ## 🎯 Purpose
 To develop programming skills, improve problem-solving abilities, and build practical Python applications.
 
+<<<<<<< HEAD
 **Created by Aditi Choudhary** 🚀
+=======
+**Created by Aditi Choudhary** 
+>>>>>>> d28b3e5 (update python README and remove subtract program)
