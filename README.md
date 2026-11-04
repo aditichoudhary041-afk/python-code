@@ -35,4 +35,4 @@ This repository contains Python programs, programming concepts, practice exercis
 - GitHub
 
 ## 🎯 Purpose
-To develop programming skills, improve problem-solving abilities, and build practical Python 
+To develop programming skills, improve problem-solving abilities, and build practical Python programm
