@@ -1,2 +1,5 @@
 marks=[12.7 , 45.8 ,13.5 ,19.7 , 23.5 , 45.8]
 print(marks)
+print(type(marks))
+print(marks[0])
+print(marks[3])
